@@ -1,4 +1,2 @@
 # hello-world
-tutorial
-`int a = 123; `
-
+write a bit about yourself.
